@@ -23,3 +23,9 @@ This Python script automatically tracks the prices of multiple products on Amazo
 2.  Create a `.env` file and add your email credentials (see `.env.example` for the format).
 3.  Modify `products.csv` with the Amazon URLs and target prices you want to track.
 4.  Run the `main.py` script.
+
+## 🎬 Project Demo
+![Thebestpricesnotificationmain py2025-10-0317-09-28-ezgif com-resize](https://github.com/user-attachments/assets/dfbb1056-b1cd-4ab8-8024-d66d7144e488)
+
+## Example Email Alert
+<img width="1313" height="367" alt="Screenshot 2025-10-03 171943" src="https://github.com/user-attachments/assets/9dff42de-93e9-4971-acd3-dccacc615b27" />
